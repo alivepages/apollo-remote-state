@@ -1,7 +1,7 @@
 {
   "name": "todomvc-apollo",
   "version": "0.0.1",
-  "private": true,
+  "private": true,  
   "devDependencies": {
     "@types/classnames": "^2.2.9",
     "@types/react-test-renderer": "^16.9.2",
